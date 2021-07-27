@@ -1,0 +1,139 @@
+<!doctype html>
+<html>
+ <head></head> 
+ <body> 
+  <div class="header"> 
+   <h1>Whatsapp</h1> 
+   <img class="search-icon" src="https://i.imgur.com/NMZBrw3.png" alt="search button"> 
+   <img class="cam-icon" src="https://i.imgur.com/y0OOQoe.png" alt="camera button" onclick="cambtn()"> 
+   <img class="dots" src="https://i.imgur.com/RxxLe7k.png" alt="Three dots"> 
+   <div class="nav"> 
+    <ul> 
+     <li><a class="chats"><b>CHATS</b></a></li> 
+     <li><a class="status"><b>STATUS</b></a></li> 
+     <li><a class="calls"><b>CALLS</b></a></li> 
+    </ul> 
+   </div> 
+  </div> 
+  <div class="chat"> 
+   <div class="c1"> 
+    <img class="dp" src="https://i.imgur.com/ofTwjIE.jpg"> 
+    <p class="name">Modi 2(Jio)</p> 
+    <p class="typ-msg">Typing...</p> 
+    <p class="time">5:11 AM</p> 
+    <p class="msg-count"><b>33</b></p> 
+    <div class="green-dot"></div> 
+    <div class="line"></div> 
+   </div> 
+   <div class="c1"> 
+    <img class="dp" src="https://i.imgur.com/mz3j7ud.jpg"> 
+    <p class="name">Mozart bro</p> 
+    <p class="msg">Consert piano.caustic</p> 
+    <p class="time">12:53 PM</p> 
+    <p class="msg-count"><b>6</b></p> 
+    <div class="green-dot"></div> 
+    <div class="line"></div> 
+   </div> 
+   <div class="c1"> 
+    <img class="dp" src="https://i.imgur.com/HmggjOm.jpg"> 
+    <p class="name">Astrix</p> 
+    <p class="msg">Send mp3 file🤷‍♂️</p> 
+    <p class="time">10:13 PM</p> 
+    <p class="msg-count"><b>1</b></p> 
+    <div class="green-dot"></div> 
+    <div class="line"></div> 
+   </div> 
+   <div class="c1"> 
+    <img class="dp" src="https://i.imgur.com/FsyknOY.jpg"> 
+    <p class="name">Skrillex</p> 
+    <p class="msg">Ada new EP out now</p> 
+    <p class="time">1:03 AM</p> 
+    <p class="msg-count"><b>1</b></p> 
+    <div class="green-dot"></div> 
+    <div class="line"></div> 
+   </div> 
+   <div class="c1"> 
+    <img class="dp" src="https://i.imgur.com/gtJUIZw.jpg"> 
+    <p class="name">Zuck bro</p> 
+    <p class="msg">Adaa nee update chey</p> 
+    <p></p> 
+    <p class="time">7:63 PM</p> 
+    <p class="msg-count"><b>2</b></p> 
+    <div class="green-dot"></div> 
+    <div class="line"></div> 
+   </div> 
+   <div class="c1"> 
+    <img class="dp" src="https://i.imgur.com/Mcqx5A6.jpg"> 
+    <p class="name">Ronaldo 2 Vi</p> 
+    <p class="msg">Korach followers venam</p> 
+    <p class="time">12:63 PM</p> 
+    <p class="msg-count"><b>4</b></p> 
+    <div class="green-dot"></div> 
+    <div class="line"></div> 
+   </div> 
+   <div class="c1"> 
+    <img class="dp" src="https://i.imgur.com/OdxHSUj.png"> 
+    <p class="name">Trick bait</p> 
+    <p class="msg">Check out new vid...</p> 
+    <p class="time">12:63 PM</p> 
+    <p class="msg-count"><b>1</b></p> 
+    <div class="green-dot"></div> 
+    <div class="line"></div> 
+   </div> 
+   <div class="c1"> 
+    <img class="dp" src="https://i.imgur.com/OdxHSUj.png"> 
+    <p class="name">God(Heaven)</p> 
+    <p class="msg">You blocked this...</p> 
+    <p class="time">12:63 PM</p> 
+    <p class="msg-count"><b>1</b></p> 
+    <div class="green-dot"></div> 
+    <div class="line"></div> 
+   </div> 
+   <div class="c1"> 
+    <img class="dp" src="https://i.imgur.com/OdxHSUj.png"> 
+    <p class="name">Ikkechi</p> 
+    <p class="msg">Ada mwonu...</p> 
+    <p class="time">12:63 PM</p> 
+    <p class="msg-count"><b>1</b></p> 
+    <div class="green-dot"></div> 
+    <div class="line"></div> 
+   </div> 
+   <div class="c1"> 
+    <img class="dp" src="https://i.imgur.com/OdxHSUj.png"> 
+    <p class="name">Ikkechi</p> 
+    <p class="msg">Ada mwonu...</p> 
+    <p class="time">12:63 PM</p> 
+    <p class="msg-count"><b>1</b></p> 
+    <div class="green-dot"></div> 
+    <div class="line"></div> 
+   </div> 
+   <div class="c1"> 
+    <img class="dp" src="https://i.imgur.com/OdxHSUj.png"> 
+    <p class="name">Ikkechi</p> 
+    <p class="msg">Ada mwonu...</p> 
+    <p class="time">12:63 PM</p> 
+    <p class="msg-count"><b>1</b></p> 
+    <div class="green-dot"></div> 
+    <div class="line"></div> 
+   </div> 
+   <div class="c1"> 
+    <img class="dp" src="https://i.imgur.com/OdxHSUj.png"> 
+    <p class="name">Ikkechi</p> 
+    <p class="msg">Ada mwonu...</p> 
+    <p class="time">12:63 PM</p> 
+    <p class="msg-count"><b>1</b></p> 
+    <div class="green-dot"></div> 
+    <div class="line"></div> 
+   </div> 
+   <div class="c1"> 
+    <img class="dp" src="https://i.imgur.com/OdxHSUj.png"> 
+    <p class="name">Ikkechi</p> 
+    <p class="msg">Ada mwonu...</p> 
+    <p class="time">12:63 PM</p> 
+    <p class="msg-count"><b>1</b></p> 
+    <div class="green-dot"></div> 
+    <div class="line"></div> 
+   </div> 
+  </div> 
+ </body>
+</html>
